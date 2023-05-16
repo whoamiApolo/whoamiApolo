@@ -41,4 +41,5 @@
 </div>
 
 
-  
+  ![Snake animation](https://github.com/whoamiApolo/whoamiApolo/blob/output/github-contribution-grid-snake.svg)
+
