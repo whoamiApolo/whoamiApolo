@@ -12,8 +12,7 @@
 <br>
 <br>
 <hr>
-<div align="center" style="display: inline_block">
-
+<div style="display: inline_block">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=whoamiApolo&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
   <img align="right" height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=whoamiApolo&layout=compact&langs_count=8&theme=react"/>
 
