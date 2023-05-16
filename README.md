@@ -40,8 +40,8 @@
   </div>
 <hr>
 <div style="display: flex">
-<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=whoamiApolo&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-  <img align="right" height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=whoamiApolo&layout=compact&langs_count=8&theme=react"/>
+<img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=whoamiApolo&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+  <img align="right" height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=whoamiApolo&layout=compact&langs_count=8&theme=react"/>
 </div>
 
 
