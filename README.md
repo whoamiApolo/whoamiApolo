@@ -1,9 +1,8 @@
-<img align="right" width="250px" style="margin-top:-20px" src="https://github.com/whoamiApolo/whoamiApolo/blob/main/Eu-removebg-preview.png">
-
 <div display="inline-block">
+<img align="right" width="250px" style="margin-top:-20px" src="https://github.com/whoamiApolo/whoamiApolo/blob/main/Eu-removebg-preview.png">
   <h1>👋🏿 Oi, eu sou o Apolinário! 🤙🏿</h1>
   <p>Seja bem-vindo ao meu perfil do Github!</p>
-  <q>Um lugar especial (Github) para pessoas especiais.</q>
+  <p align="right"><q>Um lugar especial (Github) para pessoas especiais.</q></p>
 </div>
 
 <div> 
@@ -24,9 +23,11 @@
     <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
    </div>
 </div>
-<hr>
+<br>
 <div>
   <h2>Contact-me</h2>
+  <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
+  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
   <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
   <a href ="https://www.medium.com.br"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" target="_blank"></a>
   <a href ="https://www.dev.to"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" target="_blank"></a>
@@ -39,7 +40,6 @@
 <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=whoamiApolo&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
   <img align="right" height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=whoamiApolo&layout=compact&langs_count=8&theme=react"/>
 </div>
-
 <br>
 <br>
 
