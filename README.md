@@ -10,6 +10,8 @@
 <br>
 <br>
 <br>
+<br>
+<hr>
 <div align="center" style="display: inline_block">
 <a href="https://github.com/whoamiApolo">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=whoamiApolo&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
