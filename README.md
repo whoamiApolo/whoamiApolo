@@ -5,19 +5,10 @@
   <p>Seja bem-vindo ao meu perfil do Github</p>
   <q>Um lugar especial (Github) para pessoas especiais.</q>
 </div>
-<br>
-<br>
+
 <br>
 
 <hr>
-<div style="display: flex">
-<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=whoamiApolo&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-  <img align="right" height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=whoamiApolo&layout=compact&langs_count=8&theme=react"/>
-
-</div>
-<br>
-<br>
-<br>
 <div  align="center"> 
   <div style="display: inline_block"><br>
     <img align="left" height="250" alt="coding-time" src="code.gif">
@@ -37,19 +28,21 @@
    </div>
 </div>
 <br>
-<br>
-<br>
 <div align="center">
-  SOCIAIS
+  <h2>SOCIAIS</h2>
   <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
  
   <a href = "mailto:contato@seu-usuário-aqui"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" target="_blank"></a>
   <a href = "mailto:contato@seu-usuário-aqui"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" target="_blank"></a>
   <a href = "mailto:contato@seu-usuário-aqui"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  
-  
   <a href = "mailto:contato@seu-usuário-aqui"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href = "mailto:contato@seu-usuário-aqui"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-
+  <a href = "https://www.instagram.com/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   </div>
+<hr>
+<div style="display: flex">
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=whoamiApolo&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+  <img align="right" height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=whoamiApolo&layout=compact&langs_count=8&theme=react"/>
+</div>
+
+
   
