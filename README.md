@@ -40,6 +40,7 @@
   <img align="right" height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=whoamiApolo&layout=compact&langs_count=8&theme=react"/>
 </div>
 
+<br>
+<br>
 
   ![Snake animation](https://github.com/whoamiApolo/whoamiApolo/blob/output/github-contribution-grid-snake.svg)
-
