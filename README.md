@@ -13,9 +13,9 @@
 </div>
 <br>
 <br>
-<div style="display: flex" align="center">
-<img height="165em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=whoamiApolo&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-  <img height="165em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=whoamiApolo&layout=compact&langs_count=8&theme=react"/>
+<div style="display: flex">
+<img align="left" height="165em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=whoamiApolo&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+  <img align="center" height="165em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=whoamiApolo&layout=compact&langs_count=8&theme=react"/>
 </div>
 
 <div> 
