@@ -1,14 +1,21 @@
 <div display="inline-block">
 <img align="right" width="250px" style="margin-top:-20px" src="https://github.com/whoamiApolo/whoamiApolo/blob/main/Eu-removebg-preview.png">
-  <h1>👋🏿 Oi, eu sou o Apolinário! 🤙🏿</h1>
+  <h1 align="center">👋🏿 Oi, eu sou o Apolinário! 🤙🏿</h1>
  </div>
  
  <div>
-  <p>Seja bem-vindo ao meu perfil do Github!</p>
+  <p align="center">Seja bem-vindo ao meu perfil do Github!</p>
    <blockquote align="right">
-     <br> <br> 
+     <br>
+     <br> 
   <cite>Um lugar especial (Github)<br> para pessoas especiais.</cite>
     </blockquote>
+</div>
+<br>
+<br>
+<div style="display: flex" align="center">
+<img height="165em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=whoamiApolo&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+  <img height="165em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=whoamiApolo&layout=compact&langs_count=8&theme=react"/>
 </div>
 
 <div> 
@@ -46,12 +53,6 @@
 <a href="https://www.google.com"><img src="https://camo.githubusercontent.com/596357d8b52257c282f713b78daa05587ee258c2822b1738be87afe6bcce92da/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d446973636f726426636f6c6f723d353836354632266c6f676f3d446973636f7264266c6f676f436f6c6f723d464646464646266c6162656c3d" target="_blank"></a>
                                         
   </div>
-<br>
-<div align="center">
-<img height="165em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=whoamiApolo&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-  <img height="165em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=whoamiApolo&layout=compact&langs_count=8&theme=react"/>
-</div>
-<br>
-<br>
 
-  ![Snake animation](https://github.com/whoamiApolo/whoamiApolo/blob/output/github-contribution-grid-snake.svg)
+     
+![Snake animation](https://github.com/whoamiApolo/whoamiApolo/blob/output/github-contribution-grid-snake.svg)
