@@ -12,7 +12,7 @@
 <img width="370" src="https://github-readme-stats-eight-theta.vercel.app/api?username=whoamiApolo&show_icons=true&theme=solarized-light&include_all_commits=true&count_private=true"/>
  </a>
  <a href="https://github.com/whoamiApolo?tab=repositories">
- <img width="370" src="https://streak-stats.demolab.com?user=whoamiApolo&theme=solarized-light&border_radius=0&locale=pt_BR&date_format=j%20M%5B%20Y%5D"/>
+ <img width="370" src="https://streak-stats.demolab.com?user=whoamiApolo&theme=solarized-light&locale=pt_BR&date_format=j%20M%5B%20Y%5D"/>
  </a>
 </div>
 
