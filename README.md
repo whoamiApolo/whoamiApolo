@@ -8,10 +8,10 @@
 <div align="center">
 <div>
  <a href="https://github.com/whoamiApolo?tab=repositories">
-<img height=200 src="https://github-readme-stats-eight-theta.vercel.app/api?username=whoamiApolo&show_icons=true&theme=solarized-light&include_all_commits=true&count_private=true"/>
+<img height=175 src="https://github-readme-stats-eight-theta.vercel.app/api?username=whoamiApolo&show_icons=true&theme=solarized-light&include_all_commits=true&count_private=true"/>
  </a>
  <a href="https://github.com/whoamiApolo?tab=repositories">
- <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=whoamiApolo&layout=compact&theme=solarized-light"/>
+ <img height=175 src="https://github-readme-stats.vercel.app/api/top-langs/?username=whoamiApolo&layout=compact&theme=solarized-light"/>
  </a>
 </div>
 </div>
