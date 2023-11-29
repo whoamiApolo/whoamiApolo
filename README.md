@@ -61,5 +61,3 @@
 </details>
 <br>
 <p>Feel free to explore my projects and get in touch! 👀</p>
-
-![https://www.linkedin.com/in/imapolinario/](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
