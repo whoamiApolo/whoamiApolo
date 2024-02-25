@@ -57,7 +57,7 @@
 [![My Skills](https://skillicons.dev/icons?i=mysql,postgres,sqlite)](https://github.com/whoamiApolo)
 <p>Others:</p>
 
-[![My Skills](https://skillicons.dev/icons?i=docker)](https://github.com/whoamiApolo)
+[![My Skills](https://skillicons.dev/icons?i=docker,kubernetes)](https://github.com/whoamiApolo)
 </details>
 <br>
 <p>Feel free to explore my projects and get in touch! 👀</p>
